@@ -1,0 +1,30 @@
+.conteneur {
+    display: grid;
+    grid-gap: 10px;
+  
+}
+
+.box {
+  height: 150px;
+  border: solid;
+}
+
+.une {
+    grid-column: 1 / 4;
+}
+
+.deux {
+    grid-row: 2 / 4;
+}
+
+.cinq {
+  grid-column: 2 / 4;
+}
+
+.six {
+  grid-column : 1 / 3
+}
+
+.huit {
+  grid-column: 1 / 4;
+}
